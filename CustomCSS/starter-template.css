@@ -1,0 +1,23 @@
+body {
+  
+padding-top: 5rem;
+
+background-image: url("ZoteBackGround.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.starter-template {
+ 
+ padding: 0rem 0rem;
+  text-align: left;
+  color: white;
+
+}
+
+.Padding
+{
+	padding-top: 300px;
+	padding-left: 50px;
+}
